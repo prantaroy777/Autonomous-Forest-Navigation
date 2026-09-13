@@ -454,6 +454,12 @@ See `requirements.txt` for version constraints.
 
 ## Dataset
 
+
+This project uses the **FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency** dataset developed by the Northern Robotics Laboratory (NorLab), Université Laval.
+
+Official dataset website: https://fomo.norlab.ulaval.ca/
+
+
 This project uses the following FoMo forest session:
 
 ```text
