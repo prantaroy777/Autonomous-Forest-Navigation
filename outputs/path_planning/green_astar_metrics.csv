@@ -1,0 +1,9 @@
+Metric,Value
+Straight-line distance [m],8.533024082938006
+A* path length [m],9.017766952966369
+Path efficiency [%],94.62457975952785
+Number of path cells,35.0
+Expanded A* nodes,119.0
+Map resolution [m/cell],0.25
+Robot radius [m],0.5
+Safety margin [m],0.25
