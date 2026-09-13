@@ -23,6 +23,13 @@ The complete pipeline is implemented as five reproducible Jupyter notebooks.
 
 ---
 
+## Skills Demonstrated
+
+**Robotics:** localization, sensor fusion, LiDAR perception, occupancy mapping, path planning  
+**Algorithms:** Extended Kalman Filter (EKF), ray tracing, obstacle inflation, A* search, terrain segmentation  
+**Python:** NumPy, Pandas, SciPy, Matplotlib, Boto3  
+**Data Processing:** IMU, odometry, GNSS metadata, LiDAR point clouds
+
 ## Project Overview
 
 Autonomous navigation in a forest is challenging because a robot must estimate its position while moving over uneven terrain, identify obstacles such as trees and vegetation, build a traversable map, and plan a safe path through partially observed space.
