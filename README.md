@@ -68,6 +68,8 @@ IMU + Odometry + GNSS Quality
 
 ## Key Results
 
+> **Experimental note:** LiDAR, IMU, odometry, Emlid GNSS quality metadata, and PPK reference data come from FoMo. The EKF GNSS position stream is a reproducible PPK-derived simulated measurement whose noise and dropout behavior are controlled by real Emlid quality metadata.
+
 ### Localization Performance
 
 | Method | RMSE | Mean Error | Maximum Error |
