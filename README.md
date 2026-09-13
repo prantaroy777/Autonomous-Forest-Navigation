@@ -2,6 +2,10 @@
 
 An end-to-end robotics project for autonomous ground-robot navigation in a forest environment using multimodal sensor data from the FoMo dataset.
 
+![Autonomous Forest Navigation](figures/green_astar_planned_path.png)
+
+**EKF localization RMSE:** 0.749 m · **A* path:** 9.02 m · **Path efficiency:** 94.6%
+
 The project combines:
 
 - VectorNav IMU measurements
